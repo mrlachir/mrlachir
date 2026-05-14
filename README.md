@@ -7,7 +7,7 @@ I am a 4th-year engineering student specializing in Digital Development and Info
 *   🎓 Currently studying at EMSI Marrakech.
 *   💼 **Actively seeking a Software Engineering Internship for July and August 2026.**
 *   🌱 Currently diving deeper into enterprise Java (JEE, Spring Boot) and advancing my professional French.
-*   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mrlachir/) | [Email](lachirmr@gmail.com)
+*   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mrlachir/) | Email : lachirmr@gmail.com | Phone : +212-697-543-162
 
 ### 🛠️ Tech Stack
 *   **Frontend:** React, Next.js, Tailwind CSS, JavaScript
@@ -22,7 +22,7 @@ I am a 4th-year engineering student specializing in Digital Development and Info
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrlachir&show_icons=true&theme=radical&hide_border=true" alt="mrlachir's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlachir&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+### <p align="center">
+###  <img src="https://github-readme-stats.vercel.app/api?username=mrlachir&show_icons=true&theme=radical&hide_border=true" alt="mrlachir's GitHub stats" />
+###  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrlachir&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+### </p>
