@@ -7,7 +7,7 @@ I am a 4th-year engineering student specializing in Digital Development and Info
 *   🎓 Currently studying at EMSI Marrakech.
 *   💼 **Actively seeking a Software Engineering Internship for July and August 2026.**
 *   🌱 Currently diving deeper into enterprise Java (JEE, Spring Boot) and advancing my professional French.
-*   📫 How to reach me: [LinkedIn](#) | [Email](#)
+*   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mrlachir/) | [Email](lachirmr@gmail.com)
 
 ### 🛠️ Tech Stack
 *   **Frontend:** React, Next.js, Tailwind CSS, JavaScript
