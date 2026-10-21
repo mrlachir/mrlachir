@@ -6,7 +6,7 @@ I build web applications with Java, Spring Boot, React, Next.js, and Laravel. My
 
 I study Digital Development and Information Systems (DDSI) at **EMSI Marrakech**, with a focus on backend development, REST APIs, and integrating frontend applications with business workflows.
 
-[LinkedIn](https://www.linkedin.com/in/mrlachir/) · [Email](mailto:lachirmr@gmail.com) · [+212 6 97 54 31 62](tel:+212697543162)
+[LinkedIn](https://www.linkedin.com/in/mrlachir/) · [Email](mailto:lachirmr@gmail.com) · [Call](tel:+212697543162)
 
 
 ## Selected projects
