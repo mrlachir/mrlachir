@@ -1,24 +1,48 @@
-# Hi there, I'm Mohammed Lachir 👋
+# Mohammed Lachir
 
-### 👨‍💻 Full-Stack Software Engineering Student
+**Full-stack developer · Software engineering student**
 
-I am a 4th-year engineering student specializing in Digital Development and Information Systems (DDSI). I enjoy building robust applications and solving complex problems, with a strong focus on modern web technologies.
+I build web applications with Java, Spring Boot, React, Next.js, and Laravel. My projects include email campaign tools, insurance management software, and AI-assisted task planning.
 
-*   🎓 Currently studying at EMSI Marrakech.
-*   💼 **Actively seeking a Software Engineering Internship for July and August 2026.**
-*   🌱 Currently diving deeper into enterprise Java (JEE, Spring Boot) and advancing my professional French.
-*   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mrlachir/) | Email : lachirmr@gmail.com | Phone : +212-697-543-162
+I study Digital Development and Information Systems (DDSI) at **EMSI Marrakech**, with a focus on backend development, REST APIs, and integrating frontend applications with business workflows.
 
-### 🛠️ Tech Stack
-*   **Frontend:** React, Next.js, Tailwind CSS, JavaScript
-*   **Backend:** Spring Boot, Laravel (Blade), Node.js, REST APIs
-*   **Tools & Concepts:** Docker, Git, Agile/eXtreme Programming
+[LinkedIn](https://www.linkedin.com/in/mrlachir/) · [Email](mailto:lachirmr@gmail.com)
 
-### 🚀 Featured Projects
-*   **[Smartmail-Pro](https://github.com/mrlachir/smartmail-pro):** A comprehensive Newsletter & AI Campaign platform built with Next.js, Spring Boot, and Docker.
-*   **[Gestion-des-assurances-Allianz](https://github.com/mrlachir/Gestion-des-assurances-Allianz):** An auto insurance (RC) management tool developed using Laravel/Blade during my internship at Allianz.
-*   **[Client-Manager App](https://github.com/mrlachir/my-project-react):** A React-based application utilizing Axios and React Router for robust state and client management.
+## Selected projects
 
----
+### [SmartMail Pro](https://github.com/mrlachir/smartmail-pro)
 
+An email campaign platform combining a Next.js frontend with a Spring Boot backend.
 
+- Subscriber management and audience segmentation.
+- AI-assisted email creation and campaign analytics.
+- **Built with:** Java, Spring Boot, Next.js, MySQL, Docker.
+
+### [Insurance Management](https://github.com/mrlachir/Gestion-des-assurances-Allianz)
+
+A car insurance management application developed during my internship at Allianz.
+
+- Client and vehicle records, policy issuance and renewals.
+- Premium calculations, payment tracking, and PDF certificates.
+- **Built with:** PHP, Laravel, Blade, Tailwind CSS, MySQL.
+
+### [AI Task Planner](https://github.com/mrlachir/ai-task-planner)
+
+A task planning application that extracts tasks from Gmail messages and text using Gemini.
+
+- AI-assisted task extraction and Google account integration.
+- Calendar views, task management, and reminders.
+- **Built with:** React, Node.js, Express, Gemini API, Gmail API.
+
+## Technologies
+
+| Area | Technologies |
+| --- | --- |
+| Backend | Java, Spring Boot, PHP, Laravel, Node.js, Express |
+| Frontend | JavaScript, React, Next.js, Tailwind CSS, Blade |
+| Data & APIs | MySQL, REST APIs, Google API integrations |
+| Tools & practices | Git, Docker, Agile, eXtreme Programming |
+
+## Current focus
+
+Deepening my knowledge of enterprise Java and Spring Boot, and building full-stack applications around practical business needs.
